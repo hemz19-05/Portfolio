@@ -7,3 +7,8 @@ This is a compilation of all my projects, ranging from simple Python projects to
 [SpaceX Rocket Launch Prediction](https://github.com/hemz19-05/Capstone-Project---IBM-Data-Science)
 
 <img src="https://www.politico.eu/cdn-cgi/image/width=1024,quality=80,onerror=redirect,format=auto/wp-content/uploads/2024/07/01/GettyImages-2158701421-scaled.jpg" width="300"/>
+
+
+[PIMA Indian Diabetes Prediction](https://github.com/hemz19-05/PIMA-Indian-Diabetes-Prediction)
+
+<img src="https://www.lanermc.org/hs-fs/hubfs/diabetes.jpeg?width=300&name=diabetes.jpeg" width="300"/>
